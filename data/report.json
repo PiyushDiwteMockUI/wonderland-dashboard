@@ -1,5 +1,5 @@
 {
- "generated": "13 Nov 2026, 06:06 PM AEDT",
+ "generated": "13 Nov 2026, 06:08 PM AEDT",
  "total_contacts_now": 10948,
  "funnel_snapshot": [
   {
@@ -162,17 +162,17 @@
    "items": [
     {
      "chassis": "WL1352",
-     "name": "GOMMERS",
+     "name": "",
      "state": "WA"
     },
     {
      "chassis": "WL1328",
-     "name": "JERICHO SO2100QMXLE",
+     "name": "SO2100QMXLE",
      "state": "SA"
     },
     {
      "chassis": "WL1353",
-     "name": "SO2006 MOYLE",
+     "name": "SO2006",
      "state": "WA"
     },
     {
@@ -187,22 +187,22 @@
     },
     {
      "chassis": "WL1362",
-     "name": "AM2206 FELAY",
+     "name": "AM2206",
      "state": "WA"
     },
     {
      "chassis": "WL1351",
-     "name": "Solara",
+     "name": "",
      "state": "VIC"
     },
     {
      "chassis": "WL1184",
-     "name": "CASE STREETS",
+     "name": "",
      "state": "VIC"
     },
     {
      "chassis": "WL1630",
-     "name": "LYONS AM2106",
+     "name": "AM2106",
      "state": "WA"
     }
    ]
@@ -213,32 +213,32 @@
    "items": [
     {
      "chassis": "WL1348",
-     "name": "RAYNER HO1906EW-F2.0",
+     "name": "HO1906EW-F2.0",
      "state": "WA"
     },
     {
      "chassis": "WL1327",
-     "name": "LETHBRIDGE AM2107EW-F3",
+     "name": "AM2107EW-F3",
      "state": "VIC"
     },
     {
      "chassis": "WL1326",
-     "name": "Smith",
+     "name": "",
      "state": "VIC"
     },
     {
      "chassis": "WL1333",
-     "name": "BURTON",
+     "name": "",
      "state": "WA"
     },
     {
      "chassis": "WL1349",
-     "name": "So 2111Q3.F2 bunk",
+     "name": "2111Q3.F2",
      "state": "VIC"
     },
     {
      "chassis": "WL1344",
-     "name": "2304EW kids retreat",
+     "name": "2304EW",
      "state": "VIC"
     }
    ]
@@ -249,27 +249,27 @@
    "items": [
     {
      "chassis": "WL1234",
-     "name": "XT2311K1-F4.3 HADLEY",
+     "name": "XT2311K1-F4.3",
      "state": "VIC"
     },
     {
      "chassis": "WL1358",
-     "name": "Dyson",
+     "name": "",
      "state": "WA"
     },
     {
      "chassis": "WL1284",
-     "name": "MCNICOL SO1906Q-R-L",
+     "name": "SO1906Q-R-L",
      "state": "VIC"
     },
     {
      "chassis": "WL1345",
-     "name": "kim & andrea",
+     "name": "",
      "state": "WA"
     },
     {
      "chassis": "WL1343",
-     "name": "SCRIVEN AM1806",
+     "name": "AM1806",
      "state": "WA"
     },
     {
@@ -290,17 +290,17 @@
    "items": [
     {
      "chassis": "WL1259",
-     "name": "Healy XT1906QRC",
+     "name": "XT1906QRC",
      "state": "VIC"
     },
     {
      "chassis": "WL1335",
-     "name": "BURKE",
+     "name": "",
      "state": "VIC"
     },
     {
      "chassis": "WL1309",
-     "name": "Murfet AM1709R_L",
+     "name": "AM1709R_L",
      "state": "VIC"
     },
     {
@@ -310,7 +310,7 @@
     },
     {
      "chassis": "WL1323",
-     "name": "McALPINE",
+     "name": "",
      "state": "VIC"
     },
     {
@@ -356,32 +356,32 @@
    "items": [
     {
      "chassis": "WL1317",
-     "name": "XTR- Andreas Sonder",
+     "name": "",
      "state": "WA"
     },
     {
      "chassis": "WL1088",
-     "name": "Boulton HO2206F-B4",
+     "name": "HO2206F-B4",
      "state": "VIC"
     },
     {
      "chassis": "WL1318",
-     "name": "XT1906RL Peter & Donna",
+     "name": "XT1906RL",
      "state": "WA"
     },
     {
      "chassis": "WL1268",
-     "name": "Minogue",
+     "name": "",
      "state": "VIC"
     },
     {
      "chassis": "WL1320",
-     "name": "Sutcliffe AM1709",
+     "name": "AM1709",
      "state": "WA"
     },
     {
      "chassis": "WL1215",
-     "name": "STOCK NOW SOLD TO  MIT",
+     "name": "",
      "state": "WA"
     },
     {
@@ -4010,23 +4010,23 @@
      "SA": 1
     },
     "deposits_names": [
-     "WL1181 CLARK",
+     "WL1181",
      "WL1260",
-     "WL1344 2304EW kids retreat",
-     "WL1349 So 2111Q3.F2 bunk",
+     "WL1344 2304EW",
+     "WL1349 2111Q3.F2",
      "WL1173 SO2100Q1-F.2",
      "WL1002 XR2100K1-F2",
      "WL1222"
     ],
     "handovers_names": [
-     "WL1316 HURLEY",
-     "WL1285 Darling XT2106",
+     "WL1316",
+     "WL1285 XT2106",
      "WL1066 HO2200RC",
-     "WL1357 Alastair Biffin",
-     "WL1273 CROXFORD AM21000M_L_XL",
-     "WL1278 SO1806ML Aiden Brockman",
-     "WL1277 Miller AM2107EWF",
-     "WL1321 SQUIRE SO22RCA"
+     "WL1357",
+     "WL1273 AM21000M_L_XL",
+     "WL1278 SO1806ML",
+     "WL1277 AM2107EWF",
+     "WL1321 SO22RCA"
     ],
     "emails": {
      "broadcast_count": 5,
@@ -4637,6 +4637,7 @@
   "deposits_handovers_method_oct_2026": "October counted from /dealActivities stage-change events, same method as September (Melbourne-local month, deduped by chassis). 469 stage-change events in October. Deposits 7 (VIC 5, NSW 2), handovers 10 (VIC 9, SA 1).",
   "configurator_submitters_note_oct_2026": "configurator.submitters_alltime (73) and by_state are carried forward from 1 Oct 2026. Tag 31 \"Form: Configurator\" now has no holders: since the 24 Oct 2026 fix to automation 39 the tag is removed at the end of every run, so GET /contacts?tagid=31 returns 0 and can no longer count submitters. The conversion split and automation39_entries are recomputed. sessions_alltime 5514 is still carried forward.",
   "mis_staged_note_oct_2026": "mis_staged_money_stage counts open deals without a chassis number in Deposit Received through Handover Complete.",
-  "emails_method_note_oct_2026": "Broadcast open and click rates use unique opens and unique link clicks over sends, as in earlier months. Counting unique people who clicked instead gives a lower click rate (October 3.0%)."
+  "emails_method_note_oct_2026": "Broadcast open and click rates use unique opens and unique link clicks over sends, as in earlier months. Counting unique people who clicked instead gives a lower click rate (October 3.0%).",
+  "names_removed_note_oct_2026": "From the October 2026 run the delivery board and the October deposit and handover lists show the chassis number and model code only. Customer names from deal titles are no longer published."
  }
 }
