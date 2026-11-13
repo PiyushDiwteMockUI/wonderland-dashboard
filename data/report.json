@@ -4638,6 +4638,6 @@
   "configurator_submitters_note_oct_2026": "configurator.submitters_alltime (73) and by_state are carried forward from 1 Oct 2026. Tag 31 \"Form: Configurator\" now has no holders: since the 24 Oct 2026 fix to automation 39 the tag is removed at the end of every run, so GET /contacts?tagid=31 returns 0 and can no longer count submitters. The conversion split and automation39_entries are recomputed. sessions_alltime 5514 is still carried forward.",
   "mis_staged_note_oct_2026": "mis_staged_money_stage counts open deals without a chassis number in Deposit Received through Handover Complete.",
   "emails_method_note_oct_2026": "Broadcast open and click rates use unique opens and unique link clicks over sends, as in earlier months. Counting unique people who clicked instead gives a lower click rate (October 3.0%).",
-  "names_removed_note_oct_2026": "From the October 2026 run the delivery board and the October deposit and handover lists show the chassis number and model code only. Customer names from deal titles are no longer published."
+  "names_removed_note_oct_2026": "From the October 2026 run the delivery board and the October deposit and handover lists show the chassis number and model code only. Customer names from deal titles are left out of those lists. January to September 2026 entries still show the deal titles as first recorded and are awaiting a decision."
  }
 }
